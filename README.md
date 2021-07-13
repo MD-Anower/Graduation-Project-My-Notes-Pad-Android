@@ -101,22 +101,23 @@ width="200"
 
 ## Permissions
 
-On Android versions prior to Android 6.0, wallabag requires the following permissions:
-- Full Network Access.
-- View Network Connections.
-- Run at startup.
+On Android versions prior to Android 6.0, My Notes Pad requires the following permissions:
+-Read and Write Gallery
 - Read and write access to external storage.
 
-The "Run at startup" permission is only used if Auto-Sync feature is enabled and is not utilised otherwise. The network access permissions are made use of for downloading content. The external storage permission is used to cache article images for viewing offline.
 
 ## Contributing
 
+<!---
 wallabag app is a free and open source project developed by volunteers. Any contributions are welcome. Here are a few ways you can help:
  * [Report bugs and make suggestions.](https://github.com/wallabag/android-app/issues)
  * [Translate the app](https://hosted.weblate.org/projects/wallabag/android-app/) (you don't have to create an account).
  * Write some code. Please follow the code style used in the project to make a review process faster.
+-->
+ * No Contributor
 
 ## License
-
+<!--
 This application is released under GNU GPLv3 (see [LICENSE](LICENSE)).
 Some of the used libraries are released under different licenses.
+-->
