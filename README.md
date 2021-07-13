@@ -58,7 +58,7 @@ The android app lets you:
 - Needs no special permissions .
 
 ## Screenshots
-
+<!---
 [<img src="/Others/Images/Screenshot_1622712307.png" align="left"
 width="200"
     hspace="10" vspace="10">](/Others/Images/Screenshot_1622712307.png)
@@ -79,6 +79,21 @@ width="200"
 [<img src="/Others/Images/Screenshot_1622784201.png" align="center"
 width="200"
     hspace="10" vspace="10">](/Others/Images/Screenshot_1622784201.png)
+    
+    -->
+    
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="/Others/Images/Screenshot_1622712307.png" width=270 height=480></td>
+    <td><img src="/Others/Images/Screenshot_1622712307.png" width=270 height=480></td>
+    <td><img src="/Others/Images/Screenshot_1622712307.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 ## Permissions
 
