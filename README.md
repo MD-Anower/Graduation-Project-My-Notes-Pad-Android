@@ -89,9 +89,9 @@ width="200"
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="/Others/Images/Screenshot_1622712307.png" width=270 height=480></td>
-    <td><img src="/Others/Images/Screenshot_1622712307.png" width=270 height=480></td>
-    <td><img src="/Others/Images/Screenshot_1622712307.png" width=270 height=480></td>
+    <td><img src="/Others/Images/Screenshot_1622712307.png" width=200 height=400></td>
+    <td><img src="/Others/Images/Screenshot_1622712307.png" width=200 height=400></td>
+    <td><img src="/Others/Images/Screenshot_1622712307.png" width=200 height=400></td>
   </tr>
  </table>
 
