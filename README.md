@@ -84,14 +84,18 @@ width="200"
     
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Home Page</td>
+     <td>  </td>
+     <td> </td>
+     <td>  </td>
+     <td>  </td>
   </tr>
   <tr>
     <td><img src="/Others/Images/Screenshot_1622712307.png" width=200 height=400></td>
-    <td><img src="/Others/Images/Screenshot_1622712307.png" width=200 height=400></td>
-    <td><img src="/Others/Images/Screenshot_1622712307.png" width=200 height=400></td>
+    <td><img src="/Others/Images/Screenshot_1622784213.png" width=200 height=400></td>
+    <td><img src="/Others/Images/Screenshot_1622712818.png" width=200 height=400></td>
+    <td><img src="/Others/Images/Screenshot_1622784131.png" width=200 height=400></td>
+    <td><img src="/Others/Images/Screenshot_1622784201.png" width=200 height=400></td>
   </tr>
  </table>
 
