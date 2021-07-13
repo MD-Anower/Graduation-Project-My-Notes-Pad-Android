@@ -66,7 +66,7 @@ width="200"
 width="200"
     hspace="10" vspace="10">](/Others/Images/Screenshot_1622784213.png)
     
-[<img src="/Others/Images/Screenshot_1622712818.png" align="left"
+[<img src="/Others/Images/Screenshot_1622712818.png" 
 width="200"
     hspace="10" vspace="10">](Screenshot_1622712818.png)
 [<img src="/Others/Images/Screenshot_1622783169.png" align="center"
