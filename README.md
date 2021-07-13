@@ -6,7 +6,7 @@ width="200" hspace="10" vspace="10">
 
 My Notes Pad is a simple note book app.  
 Unlike other services, My Notes Pad is free and open source.  
-My Notes Pad for Android is a companion app. Easily You can use it just install [install](https://github.com/MD-Anower/Graduation-Project-My-Notes-Pad-Android/raw/main/app/release/app-release.apk) it and use it.
+My Notes Pad for Android is a companion app. Easily You can use it just [install](https://github.com/MD-Anower/Graduation-Project-My-Notes-Pad-Android/raw/main/app/release/app-release.apk) it and use it.
 
 
 <!---
