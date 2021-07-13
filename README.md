@@ -30,33 +30,39 @@ My Notes Pad for Android is a companion app. Easily You can use it just install 
 
 ## About
 
-wallabag has been made for you to comfortably read and archive your articles.
-You can download wallabag from wallabag.org and follow the instructions to install it on your own server.
-Alternatively, you can directly sign up for [wallabag.it](https://wallabag.it) or [Framabag](https://framabag.org).
+A notebook called draft something for some days or forever. A notebook is also known as a notepad, writing pad, drawing pad.
+We can say another way what is notebook “A notebook (also known as Notepad, writing pad, drawing pad, or legal Notepad) is a book or a stack of pages.
+usually used for note-taking or memo, other writing, drawing, or scrapbook purposes”.Now a day’s Notepad is essential for everyone.
+We cannot do without it. Every day anyone needs to keep in password, E-mail, Id, phone number, Name anytime.
+From my earlier, I wished to research software, programming, android related field. But all the supervisor was booked by others students.
+But my passion for coding, I request to be my supervisor to Fu Youjia he has accepted me. Very thanks to my tutor Fu Youjia finally supervised me.
+Otherwise, maybe I couldn’t research android programming. I want to explore a notepad that is an essential tool for everybody how can develop it.
+Perhaps many people have noted something but lost it any time; this is significantly soreness. Here may have necessary note but lost it is very harmful.
+I develop an android notepad app by thinking about the people who are lost their draft. 
 
-This android application allows you to put a link in your wallabag instance, letting you read your wallabag links offline.
+Here I have developed an Internet Notepad(working) based on android.
+This was the first time for me to make an android application. I started it in the first week of March, but June first is still abode by it.
+Some time I faced a terrible bug when I wanted to give up. But the attempt makes me successful today.
+Believing one thing is taking me here that “everything is possible in the real World for continuous attempting” without this passion, that is the abortive attempt.
+Finally, I have successfully done it. I plan to upload the app to the google play store after some days.
+The first version is simple, but the next upgraded version will be developed with more extra features.
 
-This application was originally created by Jonathan GAULUPEAU and released under the GNU GPLv3.
-wallabag is a creation from Nicolas Lœuillet released under the MIT License (Expat License).
 
 ## Features
 
 The android app lets you:
-- Connect to your self-hosted wallabag instance or connect to your [wallabag.it](https://wallabag.it) or [Framabag](https://framabag.org) account.
-- Supports wallabag 2.0 and higher.
 - Completely ad-free.
-- Increase and decrease the size of the font and also switch between a serif or sans-serif font for a more comfortable reading experience.
-- Switch between numerous themes.
+- Adding Photos.
 - Possibility to cache images locally for offline reading.
-- Get articles read via Text-to-Speech feature.
-- Needs no special permissions on Android 6.0+.
+- Adding URL.
+- Needs no special permissions .
 
 ## Screenshots
 
-[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
+[<img src="/Others/Images/Screenshot_1622712307.png" align="left"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
-[<img src="/readme/Wallabag%20Article%20View.png" align="center"
+[<img src="/Others/Images/Screenshot_1622782957.png" align="center"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
 
