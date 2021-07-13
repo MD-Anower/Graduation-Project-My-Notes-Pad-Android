@@ -61,10 +61,10 @@ The android app lets you:
 
 [<img src="/Others/Images/Screenshot_1622712307.png" align="left"
 width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
-[<img src="/Others/Images/Screenshot_1622782957.png" align="center"
+    hspace="10" vspace="10">](/Others/Images/Screenshot_1622712307.png)
+[<img src="/Others/Images/Screenshot_1622784213.png" align="center"
 width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+    hspace="10" vspace="10">](/Others/Images/Screenshot_1622784213.png)
 
 ## Permissions
 
